@@ -48,4 +48,18 @@
         "expirydate": "15-03-2026",
         "Allowoffline": false
     }
+    {
+        "device_id": "030fcde4fdd86603",
+        "username": "Zakir",
+        "password": "Zakir",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d01e005cb0030dae",
+        "username": "Isaac",
+        "password": "Isaac",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
+    }
 ]
