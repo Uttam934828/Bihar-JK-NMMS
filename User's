@@ -61,5 +61,12 @@
         "password": "Isaac",
         "expirydate": "04-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "05c8b0addaeb002d",
+        "username": "Mithu",
+        "password": "Mithu",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
     }
 ]
